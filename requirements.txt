@@ -100,3 +100,4 @@ wcwidth==0.2.6
 webencodings==0.5.1
 Werkzeug==2.3.6
 widgetsnbextension==4.0.8
+--extra-index-url==https://download.pytorch.org/whl/cu118  # should force pytorch cuda to be downloaded from extra index
